@@ -1,1 +1,1 @@
-# nexr-app
+# next-app
